@@ -44,6 +44,6 @@ Verified: phi(U_i)=V_i, meet condition, A^5 positivity, demand matrix M,
           10-layer cut capacity 5 < selected demand 6, and max-flow value 5.
 ```
 
-## License
+### License
 
 This verification code is released under the [MIT License](LICENSE).
